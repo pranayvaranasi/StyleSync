@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="20" fill="#071228"/>
+  <circle cx="60" cy="50" r="30" fill="url(#g)" />
+  <text x="60" y="80" font-size="20" fill="#e6eef6" text-anchor="middle" font-family="sans-serif">StyleSync</text>
+</svg>
